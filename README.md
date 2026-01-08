@@ -1,8 +1,10 @@
-🏨 Hotel Reservations Classification
+## 🏨 Hotel Reservations Classification
+
 This project focuses on analyzing a hotel reservation dataset and building machine learning models to predict booking status (canceled or not canceled). The goal is to provide insights into factors influencing hotel cancellations and develop a robust predictive system.
 
 
-🌟 Project Overview
+## 🌟 Project Overview
+
 This project undertakes a comprehensive machine learning pipeline for hotel reservation data, covering:
 
 Data Loading and Initial Inspection: Understanding the structure and basic characteristics of the dataset.
@@ -13,7 +15,8 @@ Exploratory Data Analysis (EDA): Gaining insights into the dataset through vario
 
 Model Building and Evaluation: Training and evaluating multiple classification models to predict booking outcomes.
 
-📊 Dataset
+## 📊 Dataset
+
 The dataset used in this project is the "Hotel Reservation Database," which can be viewed and downloaded from Kaggle.
 
 The dataset includes various features related to hotel bookings, such as:
@@ -56,7 +59,8 @@ no_of_special_requests
 
 booking_status (Target variable: 'Not_Canceled' or 'Canceled')
 
-🚀 Key Steps & Analysis
+## 🚀 Key Steps & Analysis
+
 The Jupyter notebook (hotel-reservations.ipynb) details the following steps:
 
 1. Data Loading and Initial Exploration
@@ -135,7 +139,8 @@ Evaluates its performance.
 
 Model Comparison: A DataFrame and bar plot are generated to visually compare the training and validation accuracies of all trained models.
 
-🛠️ Technologies & Libraries
+## 🛠️ Technologies & Libraries
+
 Python: The primary programming language.
 
 Jupyter Notebook: For interactive development and documentation.
@@ -148,7 +153,7 @@ Scikit-learn: For machine learning models (e.g., train_test_split, StandardScale
 
 Matplotlib: For creating static visualizations, particularly for model comparison.
 
-💡 How to Run
+## 💡 How to Run
 To execute this analysis:
 
 Clone the Repository:
